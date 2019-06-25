@@ -1,4 +1,5 @@
 <?php
 
 echo hehe;
-echo  "吃饭了吗？"；//测试
+echo  "吃饭了吗？";
+//测试
